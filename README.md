@@ -1,8 +1,6 @@
-# web-dev-starter
+# Birdwatching Homepage
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This HTML file represents the home page of a bird watching website. The document is structured to include a header with the main title, site logo, and navigation menu, a main content area with a welcome message and image thumbnails, and a footer with copyright information and credits. This website is designed to provide information and resources for bird watching enthusiasts. This is a fake document used for class.
 
 ## Getting Started
 
@@ -20,10 +18,10 @@ locally. This will allow you to see changes in real-time as you make them. There
 is no need to run a build process or refresh the page manually. Additionally,
 you do not need to setup a local server to run the project.
 
+## Running Website
+
+After running the npm commands shown above. The user should install the live preview extension on VS Code. Once the user has this extension installed they can right click the 'index.html' file then click 'show preview'. This will show a preview of the website.
+
 ## Testing
 
-To run the tests for the project, run the following command:
-
-```bash
-npm test
-```
+This program has no tests.
